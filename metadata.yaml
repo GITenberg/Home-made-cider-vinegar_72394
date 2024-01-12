@@ -1,0 +1,32 @@
+_repo: Home-made-cider-vinegar_72394
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Sackett, Walter G. (Walter George)
+    birthdate: 1880
+    deathdate: 1968
+    gutenberg_agent_id: '56711'
+    url: http://www.gutenberg.org/2009/agents/56711
+description: ''
+gutenberg_issued: '2023-12-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '72394'
+language: en
+pgterms:marc905: 20231110090016sackett
+pgterms:marc906: '1913'
+pgterms:marc907: US
+production_note: Produced by Joyce C. Hersh, from a scan of a copy in the University
+  of Illinois Agricultural Library.
+publication_note: '  $aFort Collins, Colorado :$bAgricultural Experiment Station,
+  $c1913.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Vinegar'
+- !lcsh 'Cider'
+- !lcc 'TX'
+- GITenberg
+title: Home-made cider vinegar
+url: http://www.gutenberg.org/ebooks/72394
